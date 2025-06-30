@@ -1,4 +1,70 @@
-Privacy Policy
+# Política de Privacidad de CirculaChido
+**Fecha de entrada en vigor:** 27-jun-2025  
+**Última actualización:** 27-jun-2025  
 
-Circula Chido does not collect any data whatsoever. It's all stored on-device.
+CirculaChido (en adelante “la App”) respeta tu privacidad. Esta política describe qué datos recopilamos, cómo los usamos y qué controles tienes sobre tu información.
 
+---
+
+## 1. Datos que recopilamos
+
+| Dato | Dónde se guarda | Para qué se usa | Se comparte |
+|------|-----------------|-----------------|-------------|
+| Placas, holograma, año-modelo del vehículo | Solo en tu dispositivo | Calcular restricciones “Hoy No Circula” y recordatorios | **No** |
+| Fechas de verificación y tenencia | Solo en tu dispositivo | Generar notificaciones de vencimiento | **No** |
+| Preferencias (notificaciones, widgets) | Solo en tu dispositivo | Personalizar la experiencia | **No** |
+| Logs anónimos de errores (opcional) | Apple / TestFlight | Diagnosticar fallos | **Sí** (con Apple), sin datos personales |
+
+*No recopilamos datos de ubicación, contactos, cámara ni publicidad.*
+
+---
+
+## 2. Cómo se usa el cifrado
+
+Todos los datos se almacenan en **iCloud Keychain** y en el almacenamiento interno del dispositivo, protegidos con el cifrado estándar de Apple.  
+Las comunicaciones con servicios externos (p.ej. CAMe para contingencias) se realizan exclusivamente mediante **HTTPS (TLS 1.2/1.3)**.
+
+---
+
+## 3. Compartición con terceros
+
+La App **no comparte** tus datos con terceros.  
+Las únicas transmisiones externas son:
+- **Servidores oficiales de SEMOVI/SEDEMA/CAMe** (solo consultas públicas de contingencias y calendarios, sin identificar al usuario).
+- **TestFlight** (en fase beta): Apple puede recibir métricas de uso agregadas y logs de fallos.
+
+---
+
+## 4. Tus controles y derechos
+
+- **Editar/eliminar datos:** Puedes borrar un vehículo o todos los datos desde Ajustes ▸ Datos ▸ *Eliminar datos*.  
+- **Exportar:** Ajustes ▸ Datos ▸ *Exportar JSON* para respaldar tu información.  
+- **Notificaciones:** iOS ▸ Ajustes ▸ Notificaciones ▸ CirculaChido.  
+- **Derecho de acceso o supresión:** Escríbenos a soporte@circulachido.mx y atenderemos tu solicitud en un máximo de 30 días.
+
+---
+
+## 5. Retención de datos
+
+Los datos permanecen en tu dispositivo hasta que:
+1. Desinstales la App,  
+2. Utilices la opción “Eliminar datos”, o  
+3. Restaures tu iPhone sin copia de seguridad.
+
+No conservamos copias en servidores propios.
+
+---
+
+## 6. Cambios a esta política
+
+Publicaremos cualquier cambio importante en este repositorio y actualizaremos la fecha “Última actualización”. El uso continuado de la App después de dichos cambios implica la aceptación de la nueva política.
+
+---
+
+## 7. Contacto
+
+- **Correo:** soporte@circulachido.mx  
+- **Responsable:** Elías Hernández Ramón  
+- **Twitter:** [@CirculaChido](https://twitter.com/CirculaChido)  
+
+Si tienes preguntas sobre privacidad o seguridad de datos, contáctanos en cualquier momento.
