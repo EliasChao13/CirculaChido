@@ -64,4 +64,4 @@ Tiempo de respuesta estimado: 24-48 h.
 **1.0 (Build 4) – Beta TestFlight**  
 
 ## Política de privacidad
-[Lee la política completa aquí]([https://tu-url.com/privacidad](https://github.com/EliasChao13/CirculaChido/blob/main/Privacy))
+[Lee la política completa aquí](https://github.com/EliasChao13/CirculaChido/blob/main/Privacy)
