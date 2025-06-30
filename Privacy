@@ -21,7 +21,7 @@ CirculaChido (en adelante “la App”) respeta tu privacidad. Esta política de
 
 ## 2. Cómo se usa el cifrado
 
-Todos los datos se almacenan en **iCloud Keychain** y en el almacenamiento interno del dispositivo, protegidos con el cifrado estándar de Apple.  
+Todos los datos se almacenan en el almacenamiento interno del dispositivo, protegidos con el cifrado estándar de Apple.  
 Las comunicaciones con servicios externos (p.ej. CAMe para contingencias) se realizan exclusivamente mediante **HTTPS (TLS 1.2/1.3)**.
 
 ---
@@ -64,7 +64,6 @@ Publicaremos cualquier cambio importante en este repositorio y actualizaremos la
 ## 7. Contacto
 
 - **Correo:** soporte@circulachido.mx  
-- **Responsable:** Elías Hernández Ramón  
-- **Twitter:** [@CirculaChido](https://twitter.com/CirculaChido)  
+- **Responsable:** Elías Hernández Ramón   
 
 Si tienes preguntas sobre privacidad o seguridad de datos, contáctanos en cualquier momento.
